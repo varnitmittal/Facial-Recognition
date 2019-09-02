@@ -7,7 +7,7 @@ The code is meant for processing video files, but with some minor changes, it ca
 
 ---
 
-**A still for original video:**
+**A still from original video:**
 ![Original](still_from_original.png)
 
 ---
